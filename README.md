@@ -1,5 +1,3 @@
-# Task-1-web-client-development_Cakrawala
-
 # Laporan Pengerjaan Tugas
 
 ## Tugas 1: Luas Persegi Panjang
